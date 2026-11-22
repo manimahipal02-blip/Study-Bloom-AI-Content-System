@@ -1,8 +1,8 @@
-StudyBloom — AI Content Creation System 🌷
+Study Bloom — AI Content Creation System 🌷
 
 Project Overview
 
-StudyBloom is a fictional student productivity and lifestyle brand designed for students aged 16–24. This project focuses on building an AI-assisted content strategy to create engaging, relatable and useful Instagram content.
+Study Bloom is a fictional student productivity and lifestyle brand designed for students aged 16–24. This project focuses on building an AI-assisted content strategy to create engaging, relatable and useful Instagram content.
 
 Project Objective
 
