@@ -1,4 +1,4 @@
-# StudyBloom — AI-Generated Content Hooks
+# Study Bloom — AI-Generated Content Hooks
 
 This document contains content hooks designed to capture attention, connect with student experiences and encourage engagement across Instagram.
 
@@ -49,4 +49,4 @@ Hooks were evaluated using estimated scores based on:
 These ratings are strategic estimates and are not based on actual Instagram performance analytics.
 
 ---
-*Hooks developed using AI-assisted brainstorming for the StudyBloom content strategy project.*
+*Hooks developed using AI-assisted brainstorming for the Study Bloom content strategy project.*
