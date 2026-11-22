@@ -56,7 +56,7 @@ Workflow
 
 Disclaimer
 
-StudyBloom is a fictional brand created for an internship project and portfolio demonstration.
+Study Bloom is a fictional brand created for an internship project and portfolio demonstration.
 
 ---
 
