@@ -1,6 +1,6 @@
-# StudyBloom Content Pillars
+# Study Bloom Content Pillars
 
-StudyBloom uses three primary content pillars to maintain consistency, variety and relevance for its student audience.
+Study Bloom uses three primary content pillars to maintain consistency, variety and relevance for its student audience.
 
 ## 1. Study Tips & Learning
 **Purpose:** Help students learn more effectively and improve their study techniques.
@@ -42,4 +42,4 @@ StudyBloom uses three primary content pillars to maintain consistency, variety a
 These three pillars balance educational value, practical productivity advice and relatable student experiences. Together, they help StudyBloom create diverse and consistent content while connecting with its target audience.
 
 ---
-*Content pillars developed for the StudyBloom AI content strategy project.*
+*Content pillars developed for the Study Bloom AI content strategy project.*
