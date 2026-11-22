@@ -1,7 +1,7 @@
-# StudyBloom Brand Voice Guidelines
+# Study Bloom Brand Voice Guidelines
 
 ## Brand Identity
-StudyBloom is a student productivity and lifestyle brand created to help students study smarter, stay organised and feel less overwhelmed.
+Study Bloom is a student productivity and lifestyle brand created to help students study smarter, stay organised and feel less overwhelmed.
 
 ## Target Audience
 - Students aged 16–24
@@ -16,7 +16,7 @@ StudyBloom is a student productivity and lifestyle brand created to help student
 - Creative
 
 ## Tone of Voice
-StudyBloom communicates in simple, conversational and encouraging language. The brand avoids sounding overly formal or unrealistic. It focuses on practical advice, empathy and small achievable changes.
+Study Bloom communicates in simple, conversational and encouraging language. The brand avoids sounding overly formal or unrealistic. It focuses on practical advice, empathy and small achievable changes.
 
 ## Communication Style
 - Use short and easy-to-understand sentences.
