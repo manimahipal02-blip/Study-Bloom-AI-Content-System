@@ -1,4 +1,4 @@
-# StudyBloom — 30 Instagram Captions 🌷
+# Study Bloom — 30 Instagram Captions 🌷
 
 These captions are designed for StudyBloom's student productivity and lifestyle content. They use a friendly, relatable, encouraging tone.
 
@@ -70,4 +70,4 @@ These captions are designed for StudyBloom's student productivity and lifestyle 
 
 ---
 
-*Created as part of the StudyBloom AI Content Creation System internship project. These captions are AI-assisted drafts intended for creative planning and may be edited before publishing.*
+*Created as part of the Study Bloom AI Content Creation System internship project. These captions are AI-assisted drafts intended for creative planning and may be edited before publishing.*
